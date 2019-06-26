@@ -1,3 +1,6 @@
+KEEP IN MIND ALL REQUIRED COMMANDS BELOW!!!
+
+
 # Gulp Starter Kit - basic boilerplate
 
 ![banner.png](https://i.ibb.co/2tX2gRk/banner.png)
